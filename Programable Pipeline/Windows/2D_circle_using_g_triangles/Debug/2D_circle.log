@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (2D_triangle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+  2D_circle.vcxproj -> C:\Users\psawale\source\repos\OpenGL\Programable Pipeline\Windows\2D_circle_using_g_triangles\Debug\2D_circle.exe
+  2D_circle.vcxproj -> C:\Users\psawale\source\repos\OpenGL\Programable Pipeline\Windows\2D_circle_using_g_triangles\Debug\2D_circle.pdb (Partial PDB)
